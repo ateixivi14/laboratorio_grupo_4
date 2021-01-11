@@ -1,5 +1,6 @@
 # laboratorio_grupo_4
 
+**Memoria del trabajo**
 La realización de este trabajo dio comienzo con la selección de la anomalía que sería eliminada. La anomalía que finalmente fue seleccionada fue Color Cast. Esta anomalía se basa en que la imagen sufre el defecto de encontrarse con una capa de un color constante encima de la misma, haciendo que la imagen se vea del color de la capa.
 
 El segundo paso que se dió fue el de encontrar información y bibliografía interesante que nos ayudará a abordar la anomalía a solucionar. Para ello encontramos un artículo proveniente de Stanford (Su, n.d.) el cual nos sirvió de apoyo para empezar a desarrollar nuestro proyecto. Además, este ofrece imágenes de ejemplo antes y después de solucionar la anomalía, lo que nos servía de ayuda para poder  comparar sus resultados con los nuestros.
