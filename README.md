@@ -20,7 +20,7 @@ Para solucionar este inconveniente implementamos un filtro de mediana para elimi
 
  *Imagen 1: Histogramas del canal rojo y resultado hasta este punto tras aplicar la función ecualizacion_histograma y filtro_mediana (ver anexo para observar el código)* 
  
- Para solucionar este oscurecimiento, intentamos aplicar una transformación logarítmica (ver anexo función trasformacion_logaritmica). El resultado obtenido fue el siguiente:
+ Para solucionar este oscurecimiento, intentamos aplicar una transformación logarítmica (ver anexo función *trasformacion_logaritmica*). El resultado obtenido fue el siguiente:
  
  <p align="center">
   <img src="/memoria/3.png"  width="300">
