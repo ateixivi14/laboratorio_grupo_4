@@ -20,7 +20,7 @@ Para solucionar este inconveniente implementamos un filtro de mediana para elimi
  
 </p>
 
- *Imagen 1: Histogramas del canal rojo y resultado hasta este punto tras aplicar la función ecualizacion_histograma y filtro_mediana (ver anexo para observar el código)* 
+ ***Imagen 1** : Histogramas del canal rojo y resultado hasta este punto tras aplicar la función ecualizacion_histograma y filtro_mediana (ver anexo para observar el código)* 
  
  Para solucionar este oscurecimiento, intentamos aplicar una transformación logarítmica (ver anexo función *trasformacion_logaritmica*). El resultado obtenido fue el siguiente:
  
@@ -28,7 +28,7 @@ Para solucionar este inconveniente implementamos un filtro de mediana para elimi
   <img src="/memoria/3.png"  width="300">
 </p>
 
-*Imagen 2: Resultado de aplicar la transformación logarítmica en la imagen tras ser corregida por el filtro mediana y ecualizada.*
+***Imagen 2** : Resultado de aplicar la transformación logarítmica en la imagen tras ser corregida por el filtro mediana y ecualizada.*
 
 
 Así pues, viendo que el resultado de las funciones que implementamos estropeaba la imagen como podemos ver en la imagen 2, y habiendo comparado con las funciones predeterminadas  como  exposure.equalize_hist que se encuentra dentro del paquete skimage y ver que nuestro resultado no era del todo correcto, decidimos cambiar de estrategia y realizar un estiramiento del histograma en vez de una ecualización. 
