@@ -44,7 +44,7 @@ Y posteriormente una saturación en la cual:
   <img src="/memoria/5.png"  width="300">
 </p>
 
-Con lo cual, obtuvimos los resultados que esperábamos y que podemos ver en el código principal.
+Con lo cual, obtuvimos los resultados que esperábamos y que podemos ver en el código principal ( *Color_Balancing_estiramiento_histograma*)
 
 
 **Referencias**
