@@ -43,6 +43,7 @@ Y posteriormente una saturación en la cual:
  <p align="center">
   <img src="/memoria/5.png"  width="300">
 </p>
+
 Con lo cual, obtuvimos los resultados que esperábamos y que podemos ver en el código principal.
 
 
